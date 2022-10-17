@@ -1,0 +1,20 @@
+{
+  "name": "9-npm-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npx nodemon index.js",
+    "test": "echo \"no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.20"
+  }
+}

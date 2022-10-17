@@ -1,8 +1,8 @@
 # NODE JS
 
-## Lesson 1
-- greeting
+Examples from lesson 1
 
+## Lesson 1
 - general things
   - questions (zoom, excel, priority)
   - code editor
@@ -25,6 +25,7 @@
   - alert / process / for loop (what we have in browser and what in node)
     - browser vs node
 
+
 - commonJS vs ES6 modules
   - mjs (import / export)
   - cjs (require / module.exports)
@@ -46,18 +47,10 @@
       - dev 
     - nodemon
     - npx
+    - init project
   - yarn
   - difference between yarn and npm 
 
-
-- fs
-  - fs and fs/promises
-  - working with files
-    - readFile
-    - appendFile
-    - writeFile
-
-- menti
    
 ## Questions
 - https://docs.google.com/spreadsheets/d/1Qgnm05cSZUyV896Tw4mkMbaml73qIBW0p_jM4_lNhW0/edit#gid=0
