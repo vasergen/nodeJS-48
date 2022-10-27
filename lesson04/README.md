@@ -1,7 +1,7 @@
 # Lesson 4
 
 - serve static
-- error handling
+- error handling 
 - express.json()
 - logger
   - morgan
