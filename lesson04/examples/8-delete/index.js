@@ -5,18 +5,13 @@ const movies = [
 
 const express = require("express");
 const app = express();
+const morgan = require("morgan");
 
-app.use((req, res, next) => {
-  next();
-});
+app.use(morgan("combined"));
 
-app.get("/api/error", (req, res) => {
-  if (true) {
-    //
-    throw new Error("Something bad happened!");
-  }
-
-  res.status(200).json({});
+app.delete("/api/movies/:id", (req, res) => {
+  // add code to remove movie by id, take id from req.params
+  res.status(204).json();
 });
 
 // error handling
