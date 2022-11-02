@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const HOST_DB = "mongodb+srv://admin:Vo3yAo3tdfdmV7RP@cluster0.dl6jmg6.mongodb.net/moviesReader";
+const HOST_DB = "mongodb+srv://admin:@cluster0.dl6jmg6.mongodb.net/moviesReader";
 
 async function main() {
   try {
