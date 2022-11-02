@@ -9,14 +9,8 @@
 - 
 
 
+## credentials
+admin:Vo3yAo3tdfdmV7RP
 
-
-
-*TODO*
-nodejs48
-LRA4ldMrtHljksab
-
-mongodb+srv://admin:<password>@cluster0.uh2e6rh.mongodb.net/test
-
-admin:cR4joppqkFp1au7c
+moviesReader
 
