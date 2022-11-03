@@ -1,9 +1,13 @@
 const mongoose = require("mongoose");
 
-const HOST_DB = "mongodb+srv://admin:Vo3yAo3tdfdmV7RP@cluster0.dl6jmg6.mongodb.net/moviesReader"; // don't do this on prod - no credentials in git repo
+const { HOST_DB } = process.env;
 
 async function main() {
   try {
+    if (!HOST_DB) {
+      throw new Error("HOST_DB not set!");
+    }
+
     await mongoose.connect(HOST_DB);
     console.log("connected");
   } catch (error) {
