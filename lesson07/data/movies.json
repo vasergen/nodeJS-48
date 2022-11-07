@@ -1,0 +1,6068 @@
+[
+  {
+    "name": "Witness for the Prosecution",
+    "datePublished": "1958-02-06",
+    "actors": [
+      {
+        "name": "Tyrone Power"
+      },
+      {
+        "name": "Marlene Dietrich"
+      },
+      {
+        "name": "Charles Laughton"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Billy Wilder"
+      }
+    ],
+    "duration": "PT1H56M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Whiplash",
+    "datePublished": "2014-10-15",
+    "actors": [
+      {
+        "name": "Miles Teller"
+      },
+      {
+        "name": "J.K. Simmons"
+      },
+      {
+        "name": "Melissa Benoist"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Damien Chazelle"
+      }
+    ],
+    "duration": "PT1H46M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Warrior",
+    "datePublished": "2011-09-09",
+    "actors": [
+      {
+        "name": "Tom Hardy"
+      },
+      {
+        "name": "Nick Nolte"
+      },
+      {
+        "name": "Joel Edgerton"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Gavin O&apos;Connor"
+      }
+    ],
+    "duration": "PT2H20M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "WALL·E",
+    "datePublished": "2008-06-27",
+    "actors": [
+      {
+        "name": "Ben Burtt"
+      },
+      {
+        "name": "Elissa Knight"
+      },
+      {
+        "name": "Jeff Garlin"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Andrew Stanton"
+      }
+    ],
+    "duration": "PT1H38M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Vertigo",
+    "datePublished": "1958-05-22",
+    "actors": [
+      {
+        "name": "James Stewart"
+      },
+      {
+        "name": "Kim Novak"
+      },
+      {
+        "name": "Barbara Bel Geddes"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "duration": "PT2H8M",
+    "genre": "Mystery",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "V for Vendetta",
+    "datePublished": "2006-03-17",
+    "actors": [
+      {
+        "name": "Hugo Weaving"
+      },
+      {
+        "name": "Natalie Portman"
+      },
+      {
+        "name": "Rupert Graves"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James McTeigue"
+      }
+    ],
+    "duration": "PT2H12M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Up",
+    "datePublished": "2009-05-29",
+    "actors": [
+      {
+        "name": "Edward Asner"
+      },
+      {
+        "name": "Jordan Nagai"
+      },
+      {
+        "name": "John Ratzenberger"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Pete Docter"
+      },
+      {
+        "name": "Bob Peterson"
+      }
+    ],
+    "duration": "PT1H36M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Unforgiven",
+    "datePublished": "1992-08-07",
+    "actors": [
+      {
+        "name": "Clint Eastwood"
+      },
+      {
+        "name": "Gene Hackman"
+      },
+      {
+        "name": "Morgan Freeman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Clint Eastwood"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Tôkyô monogatari",
+    "datePublished": "1972-03-13",
+    "actors": [
+      {
+        "name": "Chishû Ryû"
+      },
+      {
+        "name": "Chieko Higashiyama"
+      },
+      {
+        "name": "Sô Yamamura"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Yasujirô Ozu"
+      }
+    ],
+    "duration": "PT2H16M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Trainspotting",
+    "datePublished": "1996-08-09",
+    "actors": [
+      {
+        "name": "Ewan McGregor"
+      },
+      {
+        "name": "Ewen Bremner"
+      },
+      {
+        "name": "Jonny Lee Miller"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Danny Boyle"
+      }
+    ],
+    "duration": "PT1H33M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Toy Story 3",
+    "datePublished": "2010-06-18",
+    "actors": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Tim Allen"
+      },
+      {
+        "name": "Joan Cusack"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lee Unkrich"
+      }
+    ],
+    "duration": "PT1H43M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Toy Story",
+    "datePublished": "1995-11-22",
+    "actors": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Tim Allen"
+      },
+      {
+        "name": "Don Rickles"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John Lasseter"
+      }
+    ],
+    "duration": "PT1H21M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Top Gun: Maverick",
+    "datePublished": "2022-05-27",
+    "actors": [
+      {
+        "name": "Tom Cruise"
+      },
+      {
+        "name": "Jennifer Connelly"
+      },
+      {
+        "name": "Miles Teller"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Joseph Kosinski"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Tonari no Totoro",
+    "datePublished": "1990-07-13",
+    "actors": [
+      {
+        "name": "Hitoshi Takagi"
+      },
+      {
+        "name": "Noriko Hidaka"
+      },
+      {
+        "name": "Chika Sakamoto"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Hayao Miyazaki"
+      }
+    ],
+    "duration": "PT1H26M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "datePublished": "1963-03-16",
+    "actors": [
+      {
+        "name": "Gregory Peck"
+      },
+      {
+        "name": "John Megna"
+      },
+      {
+        "name": "Frank Overton"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Robert Mulligan"
+      }
+    ],
+    "duration": "PT2H9M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "To Be or Not to Be",
+    "datePublished": "1942-03-06",
+    "actors": [
+      {
+        "name": "Carole Lombard"
+      },
+      {
+        "name": "Jack Benny"
+      },
+      {
+        "name": "Robert Stack"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ernst Lubitsch"
+      }
+    ],
+    "duration": "PT1H39M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Three Billboards Outside Ebbing, Missouri",
+    "datePublished": "2017-12-01",
+    "actors": [
+      {
+        "name": "Frances McDormand"
+      },
+      {
+        "name": "Woody Harrelson"
+      },
+      {
+        "name": "Sam Rockwell"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin McDonagh"
+      }
+    ],
+    "duration": "PT1H55M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "There Will Be Blood",
+    "datePublished": "2008-01-25",
+    "actors": [
+      {
+        "name": "Daniel Day-Lewis"
+      },
+      {
+        "name": "Paul Dano"
+      },
+      {
+        "name": "Ciarán Hinds"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Paul Thomas Anderson"
+      }
+    ],
+    "duration": "PT2H38M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "datePublished": "2013-12-25",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Jonah Hill"
+      },
+      {
+        "name": "Margot Robbie"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "duration": "PT3H",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Wizard of Oz",
+    "datePublished": "1939-08-25",
+    "actors": [
+      {
+        "name": "Judy Garland"
+      },
+      {
+        "name": "Frank Morgan"
+      },
+      {
+        "name": "Ray Bolger"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Victor Fleming"
+      },
+      {
+        "name": "George Cukor"
+      },
+      {
+        "name": "Mervyn LeRoy"
+      }
+    ],
+    "duration": "PT1H42M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Usual Suspects",
+    "datePublished": "1995-08-16",
+    "actors": [
+      {
+        "name": "Kevin Spacey"
+      },
+      {
+        "name": "Gabriel Byrne"
+      },
+      {
+        "name": "Chazz Palminteri"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Bryan Singer"
+      }
+    ],
+    "duration": "PT1H46M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "The Truman Show",
+    "datePublished": "1998-06-05",
+    "actors": [
+      {
+        "name": "Jim Carrey"
+      },
+      {
+        "name": "Ed Harris"
+      },
+      {
+        "name": "Laura Linney"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Peter Weir"
+      }
+    ],
+    "duration": "PT1H43M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Treasure of the Sierra Madre",
+    "datePublished": "1948-01-24",
+    "actors": [
+      {
+        "name": "Humphrey Bogart"
+      },
+      {
+        "name": "Walter Huston"
+      },
+      {
+        "name": "Tim Holt"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John Huston"
+      }
+    ],
+    "duration": "PT2H6M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Third Man",
+    "datePublished": "1949-09-03",
+    "actors": [
+      {
+        "name": "Orson Welles"
+      },
+      {
+        "name": "Joseph Cotten"
+      },
+      {
+        "name": "Alida Valli"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Carol Reed"
+      }
+    ],
+    "duration": "PT1H33M",
+    "genre": "Film-Noir",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Thing",
+    "datePublished": "1982-06-25",
+    "actors": [
+      {
+        "name": "Kurt Russell"
+      },
+      {
+        "name": "Wilford Brimley"
+      },
+      {
+        "name": "Keith David"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John Carpenter"
+      }
+    ],
+    "duration": "PT1H49M",
+    "genre": "Horror",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Terminator",
+    "datePublished": "1984-10-26",
+    "actors": [
+      {
+        "name": "Arnold Schwarzenegger"
+      },
+      {
+        "name": "Linda Hamilton"
+      },
+      {
+        "name": "Michael Biehn"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James Cameron"
+      }
+    ],
+    "duration": "PT1H47M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Sting",
+    "datePublished": "1973-12-25",
+    "actors": [
+      {
+        "name": "Paul Newman"
+      },
+      {
+        "name": "Robert Redford"
+      },
+      {
+        "name": "Robert Shaw"
+      }
+    ],
+    "directors": [
+      {
+        "name": "George Roy Hill"
+      }
+    ],
+    "duration": "PT2H9M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "The Sound of Music",
+    "datePublished": "1965-04-01",
+    "actors": [
+      {
+        "name": "Julie Andrews"
+      },
+      {
+        "name": "Christopher Plummer"
+      },
+      {
+        "name": "Eleanor Parker"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Robert Wise"
+      }
+    ],
+    "duration": "PT2H52M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Sixth Sense",
+    "datePublished": "1999-08-06",
+    "actors": [
+      {
+        "name": "Bruce Willis"
+      },
+      {
+        "name": "Haley Joel Osment"
+      },
+      {
+        "name": "Toni Collette"
+      }
+    ],
+    "directors": [
+      {
+        "name": "M. Night Shyamalan"
+      }
+    ],
+    "duration": "PT1H47M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "datePublished": "1991-02-14",
+    "actors": [
+      {
+        "name": "Jodie Foster"
+      },
+      {
+        "name": "Anthony Hopkins"
+      },
+      {
+        "name": "Lawrence A. Bonney"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Jonathan Demme"
+      }
+    ],
+    "duration": "PT1H58M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "The Shining",
+    "datePublished": "1980-06-13",
+    "actors": [
+      {
+        "name": "Jack Nicholson"
+      },
+      {
+        "name": "Shelley Duvall"
+      },
+      {
+        "name": "Danny Lloyd"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kubrick"
+      }
+    ],
+    "duration": "PT2H26M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "datePublished": "1994-10-14",
+    "actors": [
+      {
+        "name": "Tim Robbins"
+      },
+      {
+        "name": "Morgan Freeman"
+      },
+      {
+        "name": "Bob Gunton"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Frank Darabont"
+      }
+    ],
+    "duration": "PT2H22M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 9.3
+  },
+  {
+    "name": "The Prestige",
+    "datePublished": "2006-10-20",
+    "actors": [
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Hugh Jackman"
+      },
+      {
+        "name": "Scarlett Johansson"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "The Pianist",
+    "datePublished": "2003-03-28",
+    "actors": [
+      {
+        "name": "Adrien Brody"
+      },
+      {
+        "name": "Thomas Kretschmann"
+      },
+      {
+        "name": "Frank Finlay"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Roman Polanski"
+      }
+    ],
+    "duration": "PT2H30M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "The Matrix",
+    "datePublished": "1999-03-31",
+    "actors": [
+      {
+        "name": "Keanu Reeves"
+      },
+      {
+        "name": "Laurence Fishburne"
+      },
+      {
+        "name": "Carrie-Anne Moss"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lana Wachowski"
+      },
+      {
+        "name": "Lilly Wachowski"
+      }
+    ],
+    "duration": "PT2H16M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.7
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "datePublished": "2002-12-18",
+    "actors": [
+      {
+        "name": "Elijah Wood"
+      },
+      {
+        "name": "Ian McKellen"
+      },
+      {
+        "name": "Viggo Mortensen"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Peter Jackson"
+      }
+    ],
+    "duration": "PT2H59M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "datePublished": "2003-12-17",
+    "actors": [
+      {
+        "name": "Elijah Wood"
+      },
+      {
+        "name": "Viggo Mortensen"
+      },
+      {
+        "name": "Ian McKellen"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Peter Jackson"
+      }
+    ],
+    "duration": "PT3H21M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 9
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "datePublished": "2001-12-19",
+    "actors": [
+      {
+        "name": "Elijah Wood"
+      },
+      {
+        "name": "Ian McKellen"
+      },
+      {
+        "name": "Orlando Bloom"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Peter Jackson"
+      }
+    ],
+    "duration": "PT2H58M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "The Lion King",
+    "datePublished": "1994-06-24",
+    "actors": [
+      {
+        "name": "Matthew Broderick"
+      },
+      {
+        "name": "Jeremy Irons"
+      },
+      {
+        "name": "James Earl Jones"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Roger Allers"
+      },
+      {
+        "name": "Rob Minkoff"
+      }
+    ],
+    "duration": "PT1H28M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "The Kid",
+    "datePublished": "1921-02-06",
+    "actors": [
+      {
+        "name": "Charles Chaplin"
+      },
+      {
+        "name": "Edna Purviance"
+      },
+      {
+        "name": "Jackie Coogan"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Charles Chaplin"
+      }
+    ],
+    "duration": "PT1H8M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "The Iron Giant",
+    "datePublished": "1999-08-06",
+    "actors": [
+      {
+        "name": "Eli Marienthal"
+      },
+      {
+        "name": "Harry Connick Jr."
+      },
+      {
+        "name": "Jennifer Aniston"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Brad Bird"
+      }
+    ],
+    "duration": "PT1H26M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Incredibles",
+    "datePublished": "2004-11-05",
+    "actors": [
+      {
+        "name": "Craig T. Nelson"
+      },
+      {
+        "name": "Samuel L. Jackson"
+      },
+      {
+        "name": "Holly Hunter"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Brad Bird"
+      }
+    ],
+    "duration": "PT1H55M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+    "rating": 8
+  },
+  {
+    "name": "The Help",
+    "datePublished": "2011-08-10",
+    "actors": [
+      {
+        "name": "Viola Davis"
+      },
+      {
+        "name": "Emma Stone"
+      },
+      {
+        "name": "Octavia Spencer"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Tate Taylor"
+      }
+    ],
+    "duration": "PT2H26M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Green Mile",
+    "datePublished": "1999-12-10",
+    "actors": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Michael Clarke Duncan"
+      },
+      {
+        "name": "David Morse"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Frank Darabont"
+      }
+    ],
+    "duration": "PT3H9M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "The Great Escape",
+    "datePublished": "1963-07-04",
+    "actors": [
+      {
+        "name": "Steve McQueen"
+      },
+      {
+        "name": "James Garner"
+      },
+      {
+        "name": "Richard Attenborough"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John Sturges"
+      }
+    ],
+    "duration": "PT2H52M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Great Dictator",
+    "datePublished": "1941-03-07",
+    "actors": [
+      {
+        "name": "Charles Chaplin"
+      },
+      {
+        "name": "Paulette Goddard"
+      },
+      {
+        "name": "Jack Oakie"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Charles Chaplin"
+      }
+    ],
+    "duration": "PT2H5M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "The Grapes of Wrath",
+    "datePublished": "1940-03-15",
+    "actors": [
+      {
+        "name": "Henry Fonda"
+      },
+      {
+        "name": "Jane Darwell"
+      },
+      {
+        "name": "John Carradine"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John Ford"
+      }
+    ],
+    "duration": "PT2H9M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "datePublished": "2014-03-28",
+    "actors": [
+      {
+        "name": "Ralph Fiennes"
+      },
+      {
+        "name": "F. Murray Abraham"
+      },
+      {
+        "name": "Mathieu Amalric"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Wes Anderson"
+      }
+    ],
+    "duration": "PT1H39M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Gold Rush",
+    "datePublished": "1925-07-13",
+    "actors": [
+      {
+        "name": "Charles Chaplin"
+      },
+      {
+        "name": "Mack Swain"
+      },
+      {
+        "name": "Tom Murray"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Charles Chaplin"
+      }
+    ],
+    "duration": "PT1H35M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Godfather Part II",
+    "datePublished": "1974-12-18",
+    "actors": [
+      {
+        "name": "Al Pacino"
+      },
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Robert Duvall"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Francis Ford Coppola"
+      }
+    ],
+    "duration": "PT3H22M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 9
+  },
+  {
+    "name": "The Godfather",
+    "datePublished": "1972-03-24",
+    "actors": [
+      {
+        "name": "Marlon Brando"
+      },
+      {
+        "name": "Al Pacino"
+      },
+      {
+        "name": "James Caan"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Francis Ford Coppola"
+      }
+    ],
+    "duration": "PT2H55M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 9.2
+  },
+  {
+    "name": "The General",
+    "datePublished": "1927-01-02",
+    "actors": [
+      {
+        "name": "Buster Keaton"
+      },
+      {
+        "name": "Marion Mack"
+      },
+      {
+        "name": "Glen Cavender"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Clyde Bruckman"
+      },
+      {
+        "name": "Buster Keaton"
+      }
+    ],
+    "duration": "PT1H7M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Father",
+    "datePublished": "2021-02-26",
+    "actors": [
+      {
+        "name": "Anthony Hopkins"
+      },
+      {
+        "name": "Olivia Colman"
+      },
+      {
+        "name": "Mark Gatiss"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Florian Zeller"
+      }
+    ],
+    "duration": "PT1H37M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Exorcist",
+    "datePublished": "1973-12-26",
+    "actors": [
+      {
+        "name": "Ellen Burstyn"
+      },
+      {
+        "name": "Max von Sydow"
+      },
+      {
+        "name": "Linda Blair"
+      }
+    ],
+    "directors": [
+      {
+        "name": "William Friedkin"
+      }
+    ],
+    "duration": "PT2H2M",
+    "genre": "Horror",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "datePublished": "1980-06-20",
+    "actors": [
+      {
+        "name": "Mark Hamill"
+      },
+      {
+        "name": "Harrison Ford"
+      },
+      {
+        "name": "Carrie Fisher"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Irvin Kershner"
+      }
+    ],
+    "duration": "PT2H4M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.7
+  },
+  {
+    "name": "The Elephant Man",
+    "datePublished": "1980-10-10",
+    "actors": [
+      {
+        "name": "Anthony Hopkins"
+      },
+      {
+        "name": "John Hurt"
+      },
+      {
+        "name": "Anne Bancroft"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Lynch"
+      }
+    ],
+    "duration": "PT2H4M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Departed",
+    "datePublished": "2006-10-06",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Matt Damon"
+      },
+      {
+        "name": "Jack Nicholson"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "duration": "PT2H31M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "The Deer Hunter",
+    "datePublished": "1979-02-23",
+    "actors": [
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Christopher Walken"
+      },
+      {
+        "name": "John Cazale"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Michael Cimino"
+      }
+    ],
+    "duration": "PT3H3M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Dark Knight Rises",
+    "datePublished": "2012-07-20",
+    "actors": [
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Tom Hardy"
+      },
+      {
+        "name": "Anne Hathaway"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT2H44M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "The Dark Knight",
+    "datePublished": "2008-07-18",
+    "actors": [
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Heath Ledger"
+      },
+      {
+        "name": "Aaron Eckhart"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT2H32M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "rating": 9
+  },
+  {
+    "name": "The Bridge on the River Kwai",
+    "datePublished": "1957-12-14",
+    "actors": [
+      {
+        "name": "William Holden"
+      },
+      {
+        "name": "Alec Guinness"
+      },
+      {
+        "name": "Jack Hawkins"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Lean"
+      }
+    ],
+    "duration": "PT2H41M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "The Big Lebowski",
+    "datePublished": "1998-03-06",
+    "actors": [
+      {
+        "name": "Jeff Bridges"
+      },
+      {
+        "name": "John Goodman"
+      },
+      {
+        "name": "Julianne Moore"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Joel Coen"
+      },
+      {
+        "name": "Ethan Coen"
+      }
+    ],
+    "duration": "PT1H57M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Best Years of Our Lives",
+    "datePublished": "1947-05-29",
+    "actors": [
+      {
+        "name": "Myrna Loy"
+      },
+      {
+        "name": "Dana Andrews"
+      },
+      {
+        "name": "Fredric March"
+      }
+    ],
+    "directors": [
+      {
+        "name": "William Wyler"
+      }
+    ],
+    "duration": "PT2H50M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "The Apartment",
+    "datePublished": "1960-06-29",
+    "actors": [
+      {
+        "name": "Jack Lemmon"
+      },
+      {
+        "name": "Shirley MacLaine"
+      },
+      {
+        "name": "Fred MacMurray"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Billy Wilder"
+      }
+    ],
+    "duration": "PT2H5M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Terminator 2: Judgment Day",
+    "datePublished": "1991-07-03",
+    "actors": [
+      {
+        "name": "Arnold Schwarzenegger"
+      },
+      {
+        "name": "Linda Hamilton"
+      },
+      {
+        "name": "Edward Furlong"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James Cameron"
+      }
+    ],
+    "duration": "PT2H17M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Tengoku to jigoku",
+    "datePublished": "1963-11-26",
+    "actors": [
+      {
+        "name": "Toshirô Mifune"
+      },
+      {
+        "name": "Yutaka Sada"
+      },
+      {
+        "name": "Tatsuya Nakadai"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Akira Kurosawa"
+      }
+    ],
+    "duration": "PT2H23M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Taxi Driver",
+    "datePublished": "1976-02-09",
+    "actors": [
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Jodie Foster"
+      },
+      {
+        "name": "Cybill Shepherd"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "duration": "PT1H54M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Taare Zameen Par",
+    "datePublished": "2007-12-21",
+    "actors": [
+      {
+        "name": "Darsheel Safary"
+      },
+      {
+        "name": "Aamir Khan"
+      },
+      {
+        "name": "Tisca Chopra"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Aamir Khan"
+      },
+      {
+        "name": "Amole Gupte"
+      }
+    ],
+    "duration": "PT2H45M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Sunset Blvd.",
+    "datePublished": "1950-08-04",
+    "actors": [
+      {
+        "name": "William Holden"
+      },
+      {
+        "name": "Gloria Swanson"
+      },
+      {
+        "name": "Erich von Stroheim"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Billy Wilder"
+      }
+    ],
+    "duration": "PT1H50M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Star Wars: Episode VI - Return of the Jedi",
+    "datePublished": "1983-05-25",
+    "actors": [
+      {
+        "name": "Mark Hamill"
+      },
+      {
+        "name": "Harrison Ford"
+      },
+      {
+        "name": "Carrie Fisher"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Richard Marquand"
+      }
+    ],
+    "duration": "PT2H11M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Star Wars",
+    "datePublished": "1977-05-25",
+    "actors": [
+      {
+        "name": "Mark Hamill"
+      },
+      {
+        "name": "Harrison Ford"
+      },
+      {
+        "name": "Carrie Fisher"
+      }
+    ],
+    "directors": [
+      {
+        "name": "George Lucas"
+      }
+    ],
+    "duration": "PT2H1M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Stand by Me",
+    "datePublished": "1986-08-22",
+    "actors": [
+      {
+        "name": "Wil Wheaton"
+      },
+      {
+        "name": "River Phoenix"
+      },
+      {
+        "name": "Corey Feldman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Rob Reiner"
+      }
+    ],
+    "duration": "PT1H29M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Spotlight",
+    "datePublished": "2015-11-20",
+    "actors": [
+      {
+        "name": "Mark Ruffalo"
+      },
+      {
+        "name": "Michael Keaton"
+      },
+      {
+        "name": "Rachel McAdams"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Tom McCarthy"
+      }
+    ],
+    "duration": "PT2H9M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "datePublished": "2021-12-17",
+    "actors": [
+      {
+        "name": "Tom Holland"
+      },
+      {
+        "name": "Zendaya"
+      },
+      {
+        "name": "Benedict Cumberbatch"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Jon Watts"
+      }
+    ],
+    "duration": "PT2H28M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Spider-Man: Into the Spider-Verse",
+    "datePublished": "2018-12-14",
+    "actors": [
+      {
+        "name": "Shameik Moore"
+      },
+      {
+        "name": "Jake Johnson"
+      },
+      {
+        "name": "Hailee Steinfeld"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Bob Persichetti"
+      },
+      {
+        "name": "Peter Ramsey"
+      },
+      {
+        "name": "Rodney Rothman"
+      }
+    ],
+    "duration": "PT1H57M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Some Like It Hot",
+    "datePublished": "1959-03-19",
+    "actors": [
+      {
+        "name": "Marilyn Monroe"
+      },
+      {
+        "name": "Tony Curtis"
+      },
+      {
+        "name": "Jack Lemmon"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Billy Wilder"
+      }
+    ],
+    "duration": "PT2H1M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Snatch",
+    "datePublished": "2001-01-19",
+    "actors": [
+      {
+        "name": "Jason Statham"
+      },
+      {
+        "name": "Brad Pitt"
+      },
+      {
+        "name": "Stephen Graham"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Guy Ritchie"
+      }
+    ],
+    "duration": "PT1H42M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Smultronstället",
+    "datePublished": "1959-06-22",
+    "actors": [
+      {
+        "name": "Victor Sjöström"
+      },
+      {
+        "name": "Bibi Andersson"
+      },
+      {
+        "name": "Ingrid Thulin"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ingmar Bergman"
+      }
+    ],
+    "duration": "PT1H31M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Singin&apos; in the Rain",
+    "datePublished": "1952-04-11",
+    "actors": [
+      {
+        "name": "Gene Kelly"
+      },
+      {
+        "name": "Donald O&apos;Connor"
+      },
+      {
+        "name": "Debbie Reynolds"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Donen"
+      },
+      {
+        "name": "Gene Kelly"
+      }
+    ],
+    "duration": "PT1H43M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Shutter Island",
+    "datePublished": "2010-02-19",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Emily Mortimer"
+      },
+      {
+        "name": "Mark Ruffalo"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "duration": "PT2H18M",
+    "genre": "Mystery",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Shichinin no samurai",
+    "datePublished": "1956-11-19",
+    "actors": [
+      {
+        "name": "Toshirô Mifune"
+      },
+      {
+        "name": "Takashi Shimura"
+      },
+      {
+        "name": "Keiko Tsushima"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Akira Kurosawa"
+      }
+    ],
+    "duration": "PT3H27M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Sherlock Jr.",
+    "datePublished": "1924-05-11",
+    "actors": [
+      {
+        "name": "Buster Keaton"
+      },
+      {
+        "name": "Kathryn McGuire"
+      },
+      {
+        "name": "Joe Keaton"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Buster Keaton"
+      }
+    ],
+    "duration": "PT45M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Seppuku",
+    "datePublished": "1964-08-04",
+    "actors": [
+      {
+        "name": "Tatsuya Nakadai"
+      },
+      {
+        "name": "Akira Ishihama"
+      },
+      {
+        "name": "Shima Iwashita"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Masaki Kobayashi"
+      }
+    ],
+    "duration": "PT2H13M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Sen to Chihiro no kamikakushi",
+    "datePublished": "2003-03-28",
+    "actors": [
+      {
+        "name": "Daveigh Chase"
+      },
+      {
+        "name": "Suzanne Pleshette"
+      },
+      {
+        "name": "Miyu Irino"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Hayao Miyazaki"
+      }
+    ],
+    "duration": "PT2H5M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Se7en",
+    "datePublished": "1995-09-22",
+    "actors": [
+      {
+        "name": "Morgan Freeman"
+      },
+      {
+        "name": "Brad Pitt"
+      },
+      {
+        "name": "Kevin Spacey"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Fincher"
+      }
+    ],
+    "duration": "PT2H7M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Schindler&apos;s List",
+    "datePublished": "1994-02-04",
+    "actors": [
+      {
+        "name": "Liam Neeson"
+      },
+      {
+        "name": "Ralph Fiennes"
+      },
+      {
+        "name": "Ben Kingsley"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "duration": "PT3H15M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 9
+  },
+  {
+    "name": "Scarface",
+    "datePublished": "1983-12-09",
+    "actors": [
+      {
+        "name": "Al Pacino"
+      },
+      {
+        "name": "Michelle Pfeiffer"
+      },
+      {
+        "name": "Steven Bauer"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Brian De Palma"
+      }
+    ],
+    "duration": "PT2H50M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Saving Private Ryan",
+    "datePublished": "1998-07-24",
+    "actors": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Matt Damon"
+      },
+      {
+        "name": "Tom Sizemore"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "duration": "PT2H49M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Salinui chueok",
+    "datePublished": "2003-05-02",
+    "actors": [
+      {
+        "name": "Song Kang-ho"
+      },
+      {
+        "name": "Kim Sang-kyung"
+      },
+      {
+        "name": "Roe-ha Kim"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Bong Joon Ho"
+      }
+    ],
+    "duration": "PT2H12M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Rush",
+    "datePublished": "2013-09-27",
+    "actors": [
+      {
+        "name": "Daniel Brühl"
+      },
+      {
+        "name": "Chris Hemsworth"
+      },
+      {
+        "name": "Olivia Wilde"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ron Howard"
+      }
+    ],
+    "duration": "PT2H3M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Room",
+    "datePublished": "2016-01-22",
+    "actors": [
+      {
+        "name": "Brie Larson"
+      },
+      {
+        "name": "Jacob Tremblay"
+      },
+      {
+        "name": "Sean Bridgers"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lenny Abrahamson"
+      }
+    ],
+    "duration": "PT1H58M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Rocky",
+    "datePublished": "1976-12-03",
+    "actors": [
+      {
+        "name": "Sylvester Stallone"
+      },
+      {
+        "name": "Talia Shire"
+      },
+      {
+        "name": "Burt Young"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John G. Avildsen"
+      }
+    ],
+    "duration": "PT2H",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Reservoir Dogs",
+    "datePublished": "1992-09-02",
+    "actors": [
+      {
+        "name": "Harvey Keitel"
+      },
+      {
+        "name": "Tim Roth"
+      },
+      {
+        "name": "Michael Madsen"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "duration": "PT1H39M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Requiem for a Dream",
+    "datePublished": "2000-12-15",
+    "actors": [
+      {
+        "name": "Ellen Burstyn"
+      },
+      {
+        "name": "Jared Leto"
+      },
+      {
+        "name": "Jennifer Connelly"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Darren Aronofsky"
+      }
+    ],
+    "duration": "PT1H42M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Relatos salvajes",
+    "datePublished": "2014-08-21",
+    "actors": [
+      {
+        "name": "Darío Grandinetti"
+      },
+      {
+        "name": "María Marull"
+      },
+      {
+        "name": "Mónica Villa"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Damián Szifron"
+      }
+    ],
+    "duration": "PT2H2M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Rebecca",
+    "datePublished": "1940-04-12",
+    "actors": [
+      {
+        "name": "Laurence Olivier"
+      },
+      {
+        "name": "Joan Fontaine"
+      },
+      {
+        "name": "George Sanders"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Rear Window",
+    "datePublished": "1954-09-01",
+    "actors": [
+      {
+        "name": "James Stewart"
+      },
+      {
+        "name": "Grace Kelly"
+      },
+      {
+        "name": "Wendell Corey"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "duration": "PT1H52M",
+    "genre": "Mystery",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Ratatouille",
+    "datePublished": "2007-06-29",
+    "actors": [
+      {
+        "name": "Brad Garrett"
+      },
+      {
+        "name": "Lou Romano"
+      },
+      {
+        "name": "Patton Oswalt"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Brad Bird"
+      },
+      {
+        "name": "Jan Pinkava"
+      }
+    ],
+    "duration": "PT1H51M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Rashômon",
+    "datePublished": "1951-12-26",
+    "actors": [
+      {
+        "name": "Toshirô Mifune"
+      },
+      {
+        "name": "Machiko Kyô"
+      },
+      {
+        "name": "Masayuki Mori"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Akira Kurosawa"
+      }
+    ],
+    "duration": "PT1H28M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Ran",
+    "datePublished": "1985-06-01",
+    "actors": [
+      {
+        "name": "Tatsuya Nakadai"
+      },
+      {
+        "name": "Akira Terao"
+      },
+      {
+        "name": "Jinpachi Nezu"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Akira Kurosawa"
+      }
+    ],
+    "duration": "PT2H42M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Raiders of the Lost Ark",
+    "datePublished": "1981-06-12",
+    "actors": [
+      {
+        "name": "Harrison Ford"
+      },
+      {
+        "name": "Karen Allen"
+      },
+      {
+        "name": "Paul Freeman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "duration": "PT1H55M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Raging Bull",
+    "datePublished": "1980-12-19",
+    "actors": [
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Cathy Moriarty"
+      },
+      {
+        "name": "Joe Pesci"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "duration": "PT2H9M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Pulp Fiction",
+    "datePublished": "1994-10-14",
+    "actors": [
+      {
+        "name": "John Travolta"
+      },
+      {
+        "name": "Uma Thurman"
+      },
+      {
+        "name": "Samuel L. Jackson"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "duration": "PT2H34M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.9
+  },
+  {
+    "name": "Psycho",
+    "datePublished": "1960-09-08",
+    "actors": [
+      {
+        "name": "Anthony Perkins"
+      },
+      {
+        "name": "Janet Leigh"
+      },
+      {
+        "name": "Vera Miles"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "duration": "PT1H49M",
+    "genre": "Horror",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Prisoners",
+    "datePublished": "2013-09-20",
+    "actors": [
+      {
+        "name": "Hugh Jackman"
+      },
+      {
+        "name": "Jake Gyllenhaal"
+      },
+      {
+        "name": "Viola Davis"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Denis Villeneuve"
+      }
+    ],
+    "duration": "PT2H33M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Platoon",
+    "datePublished": "1987-02-06",
+    "actors": [
+      {
+        "name": "Charlie Sheen"
+      },
+      {
+        "name": "Tom Berenger"
+      },
+      {
+        "name": "Willem Dafoe"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Oliver Stone"
+      }
+    ],
+    "duration": "PT2H",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "datePublished": "2003-07-09",
+    "actors": [
+      {
+        "name": "Johnny Depp"
+      },
+      {
+        "name": "Geoffrey Rush"
+      },
+      {
+        "name": "Orlando Bloom"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Gore Verbinski"
+      }
+    ],
+    "duration": "PT2H23M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Persona",
+    "datePublished": "1967-03-16",
+    "actors": [
+      {
+        "name": "Bibi Andersson"
+      },
+      {
+        "name": "Liv Ullmann"
+      },
+      {
+        "name": "Margaretha Krook"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ingmar Bergman"
+      }
+    ],
+    "duration": "PT1H23M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Per qualche dollaro in più",
+    "datePublished": "1967-05-10",
+    "actors": [
+      {
+        "name": "Clint Eastwood"
+      },
+      {
+        "name": "Lee Van Cleef"
+      },
+      {
+        "name": "Gian Maria Volontè"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sergio Leone"
+      }
+    ],
+    "duration": "PT2H12M",
+    "genre": "Western",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Paths of Glory",
+    "datePublished": "1957-12-25",
+    "actors": [
+      {
+        "name": "Kirk Douglas"
+      },
+      {
+        "name": "Ralph Meeker"
+      },
+      {
+        "name": "Adolphe Menjou"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kubrick"
+      }
+    ],
+    "duration": "PT1H28M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Pather Panchali",
+    "datePublished": "1955-08-26",
+    "actors": [
+      {
+        "name": "Kanu Bannerjee"
+      },
+      {
+        "name": "Karuna Bannerjee"
+      },
+      {
+        "name": "Subir Banerjee"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Satyajit Ray"
+      }
+    ],
+    "duration": "PT2H5M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "One Flew Over the Cuckoo&apos;s Nest",
+    "datePublished": "1975-11-19",
+    "actors": [
+      {
+        "name": "Jack Nicholson"
+      },
+      {
+        "name": "Louise Fletcher"
+      },
+      {
+        "name": "Michael Berryman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Milos Forman"
+      }
+    ],
+    "duration": "PT2H13M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.7
+  },
+  {
+    "name": "Once Upon a Time in America",
+    "datePublished": "1984-06-01",
+    "actors": [
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "James Woods"
+      },
+      {
+        "name": "Elizabeth McGovern"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sergio Leone"
+      }
+    ],
+    "duration": "PT3H49M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "On the Waterfront",
+    "datePublished": "1954-06-22",
+    "actors": [
+      {
+        "name": "Marlon Brando"
+      },
+      {
+        "name": "Karl Malden"
+      },
+      {
+        "name": "Lee J. Cobb"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Elia Kazan"
+      }
+    ],
+    "duration": "PT1H48M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Oldeuboi",
+    "datePublished": "2003-11-21",
+    "actors": [
+      {
+        "name": "Choi Min-sik"
+      },
+      {
+        "name": "Yoo Ji-tae"
+      },
+      {
+        "name": "Kang Hye-jeong"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Park Chan-wook"
+      }
+    ],
+    "duration": "PT2H",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Nuovo Cinema Paradiso",
+    "datePublished": "1990-02-23",
+    "actors": [
+      {
+        "name": "Philippe Noiret"
+      },
+      {
+        "name": "Enzo Cannavale"
+      },
+      {
+        "name": "Antonella Attili"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Giuseppe Tornatore"
+      }
+    ],
+    "duration": "PT2H35M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "North by Northwest",
+    "datePublished": "1959-12-18",
+    "actors": [
+      {
+        "name": "Cary Grant"
+      },
+      {
+        "name": "Eva Marie Saint"
+      },
+      {
+        "name": "James Mason"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "duration": "PT2H16M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "No Country for Old Men",
+    "datePublished": "2007-11-21",
+    "actors": [
+      {
+        "name": "Tommy Lee Jones"
+      },
+      {
+        "name": "Javier Bardem"
+      },
+      {
+        "name": "Josh Brolin"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ethan Coen"
+      },
+      {
+        "name": "Joel Coen"
+      }
+    ],
+    "duration": "PT2H2M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Network",
+    "datePublished": "1976-11-27",
+    "actors": [
+      {
+        "name": "Faye Dunaway"
+      },
+      {
+        "name": "William Holden"
+      },
+      {
+        "name": "Peter Finch"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sidney Lumet"
+      }
+    ],
+    "duration": "PT2H1M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Mr. Smith Goes to Washington",
+    "datePublished": "1939-10-19",
+    "actors": [
+      {
+        "name": "James Stewart"
+      },
+      {
+        "name": "Jean Arthur"
+      },
+      {
+        "name": "Claude Rains"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Frank Capra"
+      }
+    ],
+    "duration": "PT2H9M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Monty Python and the Holy Grail",
+    "datePublished": "1975-05-25",
+    "actors": [
+      {
+        "name": "Graham Chapman"
+      },
+      {
+        "name": "John Cleese"
+      },
+      {
+        "name": "Eric Idle"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Terry Gilliam"
+      },
+      {
+        "name": "Terry Jones"
+      }
+    ],
+    "duration": "PT1H31M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Monsters, Inc.",
+    "datePublished": "2001-11-02",
+    "actors": [
+      {
+        "name": "Billy Crystal"
+      },
+      {
+        "name": "John Goodman"
+      },
+      {
+        "name": "Mary Gibbs"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Pete Docter"
+      },
+      {
+        "name": "David Silverman"
+      },
+      {
+        "name": "Lee Unkrich"
+      }
+    ],
+    "duration": "PT1H32M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Mononoke-hime",
+    "datePublished": "1997-12-19",
+    "actors": [
+      {
+        "name": "Yôji Matsuda"
+      },
+      {
+        "name": "Yuriko Ishida"
+      },
+      {
+        "name": "Yûko Tanaka"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Hayao Miyazaki"
+      }
+    ],
+    "duration": "PT2H14M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Modern Times",
+    "datePublished": "1936-02-25",
+    "actors": [
+      {
+        "name": "Charles Chaplin"
+      },
+      {
+        "name": "Paulette Goddard"
+      },
+      {
+        "name": "Henry Bergman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Charles Chaplin"
+      }
+    ],
+    "duration": "PT1H27M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Million Dollar Baby",
+    "datePublished": "2005-01-28",
+    "actors": [
+      {
+        "name": "Hilary Swank"
+      },
+      {
+        "name": "Clint Eastwood"
+      },
+      {
+        "name": "Morgan Freeman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Clint Eastwood"
+      }
+    ],
+    "duration": "PT2H12M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Metropolis",
+    "datePublished": "1927-03-13",
+    "actors": [
+      {
+        "name": "Brigitte Helm"
+      },
+      {
+        "name": "Alfred Abel"
+      },
+      {
+        "name": "Gustav Fröhlich"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Fritz Lang"
+      }
+    ],
+    "duration": "PT2H33M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Memento",
+    "datePublished": "2001-05-25",
+    "actors": [
+      {
+        "name": "Guy Pearce"
+      },
+      {
+        "name": "Carrie-Anne Moss"
+      },
+      {
+        "name": "Joe Pantoliano"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT1H53M",
+    "genre": "Mystery",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Mary and Max.",
+    "datePublished": "2010-03-12",
+    "actors": [
+      {
+        "name": "Toni Collette"
+      },
+      {
+        "name": "Philip Seymour Hoffman"
+      },
+      {
+        "name": "Eric Bana"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Adam Elliot"
+      }
+    ],
+    "duration": "PT1H32M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "datePublished": "2015-05-15",
+    "actors": [
+      {
+        "name": "Tom Hardy"
+      },
+      {
+        "name": "Charlize Theron"
+      },
+      {
+        "name": "Nicholas Hoult"
+      }
+    ],
+    "directors": [
+      {
+        "name": "George Miller"
+      }
+    ],
+    "duration": "PT2H",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "M - Eine Stadt sucht einen Mörder",
+    "datePublished": "1931-08-31",
+    "actors": [
+      {
+        "name": "Peter Lorre"
+      },
+      {
+        "name": "Ellen Widmann"
+      },
+      {
+        "name": "Inge Landgut"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Fritz Lang"
+      }
+    ],
+    "duration": "PT1H39M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Léon",
+    "datePublished": "1994-11-18",
+    "actors": [
+      {
+        "name": "Jean Reno"
+      },
+      {
+        "name": "Gary Oldman"
+      },
+      {
+        "name": "Natalie Portman"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Luc Besson"
+      }
+    ],
+    "duration": "PT1H50M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Logan",
+    "datePublished": "2017-03-03",
+    "actors": [
+      {
+        "name": "Hugh Jackman"
+      },
+      {
+        "name": "Patrick Stewart"
+      },
+      {
+        "name": "Dafne Keen"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James Mangold"
+      }
+    ],
+    "duration": "PT2H17M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "datePublished": "1998-08-28",
+    "actors": [
+      {
+        "name": "Jason Flemyng"
+      },
+      {
+        "name": "Dexter Fletcher"
+      },
+      {
+        "name": "Nick Moran"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Guy Ritchie"
+      }
+    ],
+    "duration": "PT1H47M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Life of Brian",
+    "datePublished": "1979-08-17",
+    "actors": [
+      {
+        "name": "Graham Chapman"
+      },
+      {
+        "name": "John Cleese"
+      },
+      {
+        "name": "Michael Palin"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Terry Jones"
+      }
+    ],
+    "duration": "PT1H34M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8
+  },
+  {
+    "name": "Les quatre cents coups",
+    "datePublished": "1959-11-16",
+    "actors": [
+      {
+        "name": "Jean-Pierre Léaud"
+      },
+      {
+        "name": "Albert Rémy"
+      },
+      {
+        "name": "Claire Maurier"
+      }
+    ],
+    "directors": [
+      {
+        "name": "François Truffaut"
+      }
+    ],
+    "duration": "PT1H39M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Le salaire de la peur",
+    "datePublished": "1955-02-16",
+    "actors": [
+      {
+        "name": "Yves Montand"
+      },
+      {
+        "name": "Charles Vanel"
+      },
+      {
+        "name": "Peter van Eyck"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Henri-Georges Clouzot"
+      }
+    ],
+    "duration": "PT2H11M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzE2ODNiZGItNGJiZS00MzBkLTgzZDktN2NmZGE0ZWU3N2U5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Le fabuleux destin d&apos;Amélie Poulain",
+    "datePublished": "2002-02-08",
+    "actors": [
+      {
+        "name": "Audrey Tautou"
+      },
+      {
+        "name": "Mathieu Kassovitz"
+      },
+      {
+        "name": "Rufus"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Jean-Pierre Jeunet"
+      }
+    ],
+    "duration": "PT2H2M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Lawrence of Arabia",
+    "datePublished": "1962-12-11",
+    "actors": [
+      {
+        "name": "Peter O&apos;Toole"
+      },
+      {
+        "name": "Alec Guinness"
+      },
+      {
+        "name": "Anthony Quinn"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Lean"
+      }
+    ],
+    "duration": "PT3H38M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Ladri di biciclette",
+    "datePublished": "1949-12-13",
+    "actors": [
+      {
+        "name": "Lamberto Maggiorani"
+      },
+      {
+        "name": "Enzo Staiola"
+      },
+      {
+        "name": "Lianella Carell"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Vittorio De Sica"
+      }
+    ],
+    "duration": "PT1H29M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "La vita è bella",
+    "datePublished": "1997-12-20",
+    "actors": [
+      {
+        "name": "Roberto Benigni"
+      },
+      {
+        "name": "Nicoletta Braschi"
+      },
+      {
+        "name": "Giorgio Cantarini"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Roberto Benigni"
+      }
+    ],
+    "duration": "PT1H56M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "La passion de Jeanne d&apos;Arc",
+    "datePublished": "1928-10-25",
+    "actors": [
+      {
+        "name": "Maria Falconetti"
+      },
+      {
+        "name": "Eugene Silvain"
+      },
+      {
+        "name": "André Berley"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Carl Theodor Dreyer"
+      }
+    ],
+    "duration": "PT1H54M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "La haine",
+    "datePublished": "1996-02-23",
+    "actors": [
+      {
+        "name": "Vincent Cassel"
+      },
+      {
+        "name": "Hubert Koundé"
+      },
+      {
+        "name": "Saïd Taghmaoui"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Mathieu Kassovitz"
+      }
+    ],
+    "duration": "PT1H38M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "La battaglia di Algeri",
+    "datePublished": "1967-09-20",
+    "actors": [
+      {
+        "name": "Brahim Hadjadj"
+      },
+      {
+        "name": "Jean Martin"
+      },
+      {
+        "name": "Yacef Saadi"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Gillo Pontecorvo"
+      }
+    ],
+    "duration": "PT2H1M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "L.A. Confidential",
+    "datePublished": "1997-09-19",
+    "actors": [
+      {
+        "name": "Kevin Spacey"
+      },
+      {
+        "name": "Russell Crowe"
+      },
+      {
+        "name": "Guy Pearce"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Curtis Hanson"
+      }
+    ],
+    "duration": "PT2H18M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Klaus",
+    "datePublished": "2019-11-15",
+    "actors": [
+      {
+        "name": "Jason Schwartzman"
+      },
+      {
+        "name": "J.K. Simmons"
+      },
+      {
+        "name": "Rashida Jones"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sergio Pablos"
+      },
+      {
+        "name": "Carlos Martínez López"
+      }
+    ],
+    "duration": "PT1H36M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Kimi no na wa.",
+    "datePublished": "2017-04-07",
+    "actors": [
+      {
+        "name": "Ryûnosuke Kamiki"
+      },
+      {
+        "name": "Mone Kamishiraishi"
+      },
+      {
+        "name": "Ryô Narita"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Makoto Shinkai"
+      }
+    ],
+    "duration": "PT1H46M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Kill Bill: Vol. 1",
+    "datePublished": "2003-10-10",
+    "actors": [
+      {
+        "name": "Uma Thurman"
+      },
+      {
+        "name": "David Carradine"
+      },
+      {
+        "name": "Daryl Hannah"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "duration": "PT1H51M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Jurassic Park",
+    "datePublished": "1993-06-11",
+    "actors": [
+      {
+        "name": "Sam Neill"
+      },
+      {
+        "name": "Laura Dern"
+      },
+      {
+        "name": "Jeff Goldblum"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "duration": "PT2H7M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Judgment at Nuremberg",
+    "datePublished": "1961-12-18",
+    "actors": [
+      {
+        "name": "Spencer Tracy"
+      },
+      {
+        "name": "Burt Lancaster"
+      },
+      {
+        "name": "Richard Widmark"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kramer"
+      }
+    ],
+    "duration": "PT2H59M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Joker",
+    "datePublished": "2019-10-04",
+    "actors": [
+      {
+        "name": "Joaquin Phoenix"
+      },
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Zazie Beetz"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Todd Phillips"
+      }
+    ],
+    "duration": "PT2H2M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Jodaeiye Nader az Simin",
+    "datePublished": "2011-03-16",
+    "actors": [
+      {
+        "name": "Payman Maadi"
+      },
+      {
+        "name": "Leila Hatami"
+      },
+      {
+        "name": "Sareh Bayat"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Asghar Farhadi"
+      }
+    ],
+    "duration": "PT2H3M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Jaws",
+    "datePublished": "1975-06-20",
+    "actors": [
+      {
+        "name": "Roy Scheider"
+      },
+      {
+        "name": "Robert Shaw"
+      },
+      {
+        "name": "Richard Dreyfuss"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "duration": "PT2H4M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Jai Bhim",
+    "datePublished": "2021-11-02",
+    "actors": [
+      {
+        "name": "Suriya"
+      },
+      {
+        "name": "Lijo Mol Jose"
+      },
+      {
+        "name": "Manikandan K."
+      }
+    ],
+    "directors": [
+      {
+        "name": "T.J. Gnanavel"
+      }
+    ],
+    "duration": "PT2H44M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
+    "rating": 8.9
+  },
+  {
+    "name": "Jagten",
+    "datePublished": "2013-01-10",
+    "actors": [
+      {
+        "name": "Mads Mikkelsen"
+      },
+      {
+        "name": "Thomas Bo Larsen"
+      },
+      {
+        "name": "Annika Wedderkopp"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Thomas Vinterberg"
+      }
+    ],
+    "duration": "PT1H55M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "It&apos;s a Wonderful Life",
+    "datePublished": "1947-01-07",
+    "actors": [
+      {
+        "name": "James Stewart"
+      },
+      {
+        "name": "Donna Reed"
+      },
+      {
+        "name": "Lionel Barrymore"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Frank Capra"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "It Happened One Night",
+    "datePublished": "1934-02-22",
+    "actors": [
+      {
+        "name": "Clark Gable"
+      },
+      {
+        "name": "Claudette Colbert"
+      },
+      {
+        "name": "Walter Connolly"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Frank Capra"
+      }
+    ],
+    "duration": "PT1H45M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Intouchables",
+    "datePublished": "2011-11-02",
+    "actors": [
+      {
+        "name": "François Cluzet"
+      },
+      {
+        "name": "Omar Sy"
+      },
+      {
+        "name": "Anne Le Ny"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Olivier Nakache"
+      },
+      {
+        "name": "Éric Toledano"
+      }
+    ],
+    "duration": "PT1H52M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Into the Wild",
+    "datePublished": "2007-10-19",
+    "actors": [
+      {
+        "name": "Emile Hirsch"
+      },
+      {
+        "name": "Vince Vaughn"
+      },
+      {
+        "name": "Catherine Keener"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sean Penn"
+      }
+    ],
+    "duration": "PT2H28M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Interstellar",
+    "datePublished": "2014-11-07",
+    "actors": [
+      {
+        "name": "Matthew McConaughey"
+      },
+      {
+        "name": "Anne Hathaway"
+      },
+      {
+        "name": "Jessica Chastain"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT2H49M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Inside Out",
+    "datePublished": "2015-06-19",
+    "actors": [
+      {
+        "name": "Amy Poehler"
+      },
+      {
+        "name": "Bill Hader"
+      },
+      {
+        "name": "Lewis Black"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Pete Docter"
+      },
+      {
+        "name": "Ronnie Del Carmen"
+      }
+    ],
+    "duration": "PT1H35M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Inglourious Basterds",
+    "datePublished": "2009-08-21",
+    "actors": [
+      {
+        "name": "Brad Pitt"
+      },
+      {
+        "name": "Diane Kruger"
+      },
+      {
+        "name": "Eli Roth"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "duration": "PT2H33M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Indiana Jones and the Last Crusade",
+    "datePublished": "1989-05-24",
+    "actors": [
+      {
+        "name": "Harrison Ford"
+      },
+      {
+        "name": "Sean Connery"
+      },
+      {
+        "name": "Alison Doody"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "duration": "PT2H7M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Inception",
+    "datePublished": "2010-07-16",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Joseph Gordon-Levitt"
+      },
+      {
+        "name": "Elliot Page"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT2H28M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "Incendies",
+    "datePublished": "2011-01-12",
+    "actors": [
+      {
+        "name": "Lubna Azabal"
+      },
+      {
+        "name": "Mélissa Désormeaux-Poulin"
+      },
+      {
+        "name": "Maxim Gaudette"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Denis Villeneuve"
+      }
+    ],
+    "duration": "PT2H11M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "In the Name of the Father",
+    "datePublished": "1994-02-25",
+    "actors": [
+      {
+        "name": "Daniel Day-Lewis"
+      },
+      {
+        "name": "Pete Postlethwaite"
+      },
+      {
+        "name": "Alison Crosbie"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Jim Sheridan"
+      }
+    ],
+    "duration": "PT2H13M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Il buono, il brutto, il cattivo",
+    "datePublished": "1967-12-29",
+    "actors": [
+      {
+        "name": "Clint Eastwood"
+      },
+      {
+        "name": "Eli Wallach"
+      },
+      {
+        "name": "Lee Van Cleef"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sergio Leone"
+      }
+    ],
+    "duration": "PT2H58M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "Ikiru",
+    "datePublished": "1956-03-25",
+    "actors": [
+      {
+        "name": "Takashi Shimura"
+      },
+      {
+        "name": "Nobuo Kaneko"
+      },
+      {
+        "name": "Shin&apos;ichi Himori"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Akira Kurosawa"
+      }
+    ],
+    "duration": "PT2H23M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTcyYmQ2NDMtNWI1NS00MTNiLTk0NDctNWMwNWExYTNlYzk3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Idi i smotri",
+    "datePublished": "1985-09-03",
+    "actors": [
+      {
+        "name": "Aleksey Kravchenko"
+      },
+      {
+        "name": "Olga Mironova"
+      },
+      {
+        "name": "Liubomiras Laucevicius"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Elem Klimov"
+      }
+    ],
+    "duration": "PT2H22M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU3OTI1MjItYTJiZC00NDI0LWFlNGYtOTQ1OTVhNDgwM2U3XkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "How to Train Your Dragon",
+    "datePublished": "2010-03-26",
+    "actors": [
+      {
+        "name": "Jay Baruchel"
+      },
+      {
+        "name": "Gerard Butler"
+      },
+      {
+        "name": "Christopher Mintz-Plasse"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Dean DeBlois"
+      },
+      {
+        "name": "Chris Sanders"
+      }
+    ],
+    "duration": "PT1H38M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Hotel Rwanda",
+    "datePublished": "2005-02-04",
+    "actors": [
+      {
+        "name": "Don Cheadle"
+      },
+      {
+        "name": "Sophie Okonedo"
+      },
+      {
+        "name": "Joaquin Phoenix"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Terry George"
+      }
+    ],
+    "duration": "PT2H1M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Hotaru no haka",
+    "datePublished": "1989-07-26",
+    "actors": [
+      {
+        "name": "Tsutomu Tatsumi"
+      },
+      {
+        "name": "Ayano Shiraishi"
+      },
+      {
+        "name": "Akemi Yamaguchi"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Isao Takahata"
+      }
+    ],
+    "duration": "PT1H29M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Heat",
+    "datePublished": "1995-12-15",
+    "actors": [
+      {
+        "name": "Al Pacino"
+      },
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Val Kilmer"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Michael Mann"
+      }
+    ],
+    "duration": "PT2H50M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Hauru no ugoku shiro",
+    "datePublished": "2005-06-17",
+    "actors": [
+      {
+        "name": "Chieko Baishô"
+      },
+      {
+        "name": "Takuya Kimura"
+      },
+      {
+        "name": "Tatsuya Gashûin"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Hayao Miyazaki"
+      }
+    ],
+    "duration": "PT1H59M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "datePublished": "2011-07-15",
+    "actors": [
+      {
+        "name": "Daniel Radcliffe"
+      },
+      {
+        "name": "Emma Watson"
+      },
+      {
+        "name": "Rupert Grint"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Yates"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Hamilton",
+    "datePublished": "2020-07-03",
+    "actors": [
+      {
+        "name": "Lin-Manuel Miranda"
+      },
+      {
+        "name": "Phillipa Soo"
+      },
+      {
+        "name": "Leslie Odom Jr."
+      }
+    ],
+    "directors": [
+      {
+        "name": "Thomas Kail"
+      }
+    ],
+    "duration": "PT2H40M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Hacksaw Ridge",
+    "datePublished": "2016-11-04",
+    "actors": [
+      {
+        "name": "Andrew Garfield"
+      },
+      {
+        "name": "Sam Worthington"
+      },
+      {
+        "name": "Luke Bracey"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Mel Gibson"
+      }
+    ],
+    "duration": "PT2H19M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Hachi: A Dog&apos;s Tale",
+    "datePublished": "2010-03-12",
+    "actors": [
+      {
+        "name": "Richard Gere"
+      },
+      {
+        "name": "Joan Allen"
+      },
+      {
+        "name": "Cary-Hiroyuki Tagawa"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lasse Hallström"
+      }
+    ],
+    "duration": "PT1H33M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Groundhog Day",
+    "datePublished": "1993-02-12",
+    "actors": [
+      {
+        "name": "Bill Murray"
+      },
+      {
+        "name": "Andie MacDowell"
+      },
+      {
+        "name": "Chris Elliott"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Harold Ramis"
+      }
+    ],
+    "duration": "PT1H41M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Green Book",
+    "datePublished": "2018-11-16",
+    "actors": [
+      {
+        "name": "Viggo Mortensen"
+      },
+      {
+        "name": "Mahershala Ali"
+      },
+      {
+        "name": "Linda Cardellini"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Peter Farrelly"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Gran Torino",
+    "datePublished": "2009-01-09",
+    "actors": [
+      {
+        "name": "Clint Eastwood"
+      },
+      {
+        "name": "Bee Vang"
+      },
+      {
+        "name": "Christopher Carley"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Clint Eastwood"
+      }
+    ],
+    "duration": "PT1H56M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Goodfellas",
+    "datePublished": "1990-09-21",
+    "actors": [
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Ray Liotta"
+      },
+      {
+        "name": "Joe Pesci"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "duration": "PT2H25M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.7
+  },
+  {
+    "name": "Good Will Hunting",
+    "datePublished": "1998-01-09",
+    "actors": [
+      {
+        "name": "Robin Williams"
+      },
+      {
+        "name": "Matt Damon"
+      },
+      {
+        "name": "Ben Affleck"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Gus Van Sant"
+      }
+    ],
+    "duration": "PT2H6M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Gone with the Wind",
+    "datePublished": "1940-01-17",
+    "actors": [
+      {
+        "name": "Clark Gable"
+      },
+      {
+        "name": "Vivien Leigh"
+      },
+      {
+        "name": "Thomas Mitchell"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Victor Fleming"
+      },
+      {
+        "name": "George Cukor"
+      },
+      {
+        "name": "Sam Wood"
+      }
+    ],
+    "duration": "PT3H58M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Gone Girl",
+    "datePublished": "2014-10-03",
+    "actors": [
+      {
+        "name": "Ben Affleck"
+      },
+      {
+        "name": "Rosamund Pike"
+      },
+      {
+        "name": "Neil Patrick Harris"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Fincher"
+      }
+    ],
+    "duration": "PT2H29M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Gladiator",
+    "datePublished": "2000-05-05",
+    "actors": [
+      {
+        "name": "Russell Crowe"
+      },
+      {
+        "name": "Joaquin Phoenix"
+      },
+      {
+        "name": "Connie Nielsen"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ridley Scott"
+      }
+    ],
+    "duration": "PT2H35M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Gisaengchung",
+    "datePublished": "2019-11-08",
+    "actors": [
+      {
+        "name": "Song Kang-ho"
+      },
+      {
+        "name": "Lee Sun-kyun"
+      },
+      {
+        "name": "Cho Yeo-jeong"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Bong Joon Ho"
+      }
+    ],
+    "duration": "PT2H12M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Gandhi",
+    "datePublished": "1983-02-25",
+    "actors": [
+      {
+        "name": "Ben Kingsley"
+      },
+      {
+        "name": "John Gielgud"
+      },
+      {
+        "name": "Rohini Hattangadi"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Richard Attenborough"
+      }
+    ],
+    "duration": "PT3H11M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGVmZGU2M2EtZTVjYy00OWU2LWI0YjEtZjQ4YjNmODhmMzhkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Full Metal Jacket",
+    "datePublished": "1987-07-10",
+    "actors": [
+      {
+        "name": "Matthew Modine"
+      },
+      {
+        "name": "R. Lee Ermey"
+      },
+      {
+        "name": "Vincent D&apos;Onofrio"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kubrick"
+      }
+    ],
+    "duration": "PT1H56M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Forrest Gump",
+    "datePublished": "1994-07-06",
+    "actors": [
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Robin Wright"
+      },
+      {
+        "name": "Gary Sinise"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Robert Zemeckis"
+      }
+    ],
+    "duration": "PT2H22M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "Ford v Ferrari",
+    "datePublished": "2019-11-15",
+    "actors": [
+      {
+        "name": "Matt Damon"
+      },
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Jon Bernthal"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James Mangold"
+      }
+    ],
+    "duration": "PT2H32M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Finding Nemo",
+    "datePublished": "2003-05-30",
+    "actors": [
+      {
+        "name": "Albert Brooks"
+      },
+      {
+        "name": "Ellen DeGeneres"
+      },
+      {
+        "name": "Alexander Gould"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Andrew Stanton"
+      },
+      {
+        "name": "Lee Unkrich"
+      }
+    ],
+    "duration": "PT1H40M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Fight Club",
+    "datePublished": "1999-10-15",
+    "actors": [
+      {
+        "name": "Brad Pitt"
+      },
+      {
+        "name": "Edward Norton"
+      },
+      {
+        "name": "Meat Loaf"
+      }
+    ],
+    "directors": [
+      {
+        "name": "David Fincher"
+      }
+    ],
+    "duration": "PT2H19M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.8
+  },
+  {
+    "name": "Fargo",
+    "datePublished": "1996-04-05",
+    "actors": [
+      {
+        "name": "William H. Macy"
+      },
+      {
+        "name": "Frances McDormand"
+      },
+      {
+        "name": "Steve Buscemi"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Joel Coen"
+      },
+      {
+        "name": "Ethan Coen"
+      }
+    ],
+    "duration": "PT1H38M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Everything Everywhere All at Once",
+    "datePublished": "2022-03-25",
+    "actors": [
+      {
+        "name": "Michelle Yeoh"
+      },
+      {
+        "name": "Stephanie Hsu"
+      },
+      {
+        "name": "Jamie Lee Curtis"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Dan Kwan"
+      },
+      {
+        "name": "Daniel Scheinert"
+      }
+    ],
+    "duration": "PT2H19M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "datePublished": "2004-03-19",
+    "actors": [
+      {
+        "name": "Jim Carrey"
+      },
+      {
+        "name": "Kate Winslet"
+      },
+      {
+        "name": "Tom Wilkinson"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Michel Gondry"
+      }
+    ],
+    "duration": "PT1H48M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "El secreto de sus ojos",
+    "datePublished": "2010-05-21",
+    "actors": [
+      {
+        "name": "Ricardo Darín"
+      },
+      {
+        "name": "Soledad Villamil"
+      },
+      {
+        "name": "Pablo Rago"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Juan José Campanella"
+      }
+    ],
+    "duration": "PT2H9M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "El laberinto del fauno",
+    "datePublished": "2007-01-19",
+    "actors": [
+      {
+        "name": "Ivana Baquero"
+      },
+      {
+        "name": "Ariadna Gil"
+      },
+      {
+        "name": "Sergi López"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Guillermo del Toro"
+      }
+    ],
+    "duration": "PT1H58M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "datePublished": "1964-01-29",
+    "actors": [
+      {
+        "name": "Peter Sellers"
+      },
+      {
+        "name": "George C. Scott"
+      },
+      {
+        "name": "Sterling Hayden"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kubrick"
+      }
+    ],
+    "duration": "PT1H35M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Double Indemnity",
+    "datePublished": "1944-07-06",
+    "actors": [
+      {
+        "name": "Fred MacMurray"
+      },
+      {
+        "name": "Barbara Stanwyck"
+      },
+      {
+        "name": "Edward G. Robinson"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Billy Wilder"
+      }
+    ],
+    "duration": "PT1H47M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Django Unchained",
+    "datePublished": "2012-12-25",
+    "actors": [
+      {
+        "name": "Jamie Foxx"
+      },
+      {
+        "name": "Christoph Waltz"
+      },
+      {
+        "name": "Leonardo DiCaprio"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Quentin Tarantino"
+      }
+    ],
+    "duration": "PT2H45M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Die Hard",
+    "datePublished": "1988-07-20",
+    "actors": [
+      {
+        "name": "Bruce Willis"
+      },
+      {
+        "name": "Alan Rickman"
+      },
+      {
+        "name": "Bonnie Bedelia"
+      }
+    ],
+    "directors": [
+      {
+        "name": "John McTiernan"
+      }
+    ],
+    "duration": "PT2H12M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Dial M for Murder",
+    "datePublished": "1954-05-29",
+    "actors": [
+      {
+        "name": "Ray Milland"
+      },
+      {
+        "name": "Grace Kelly"
+      },
+      {
+        "name": "Robert Cummings"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alfred Hitchcock"
+      }
+    ],
+    "duration": "PT1H45M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Det sjunde inseglet",
+    "datePublished": "1958-10-13",
+    "actors": [
+      {
+        "name": "Max von Sydow"
+      },
+      {
+        "name": "Gunnar Björnstrand"
+      },
+      {
+        "name": "Bengt Ekerot"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ingmar Bergman"
+      }
+    ],
+    "duration": "PT1H36M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Dersu Uzala",
+    "datePublished": "1977-12-20",
+    "actors": [
+      {
+        "name": "Maksim Munzuk"
+      },
+      {
+        "name": "Yuriy Solomin"
+      },
+      {
+        "name": "Mikhail Bychkov"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Akira Kurosawa"
+      }
+    ],
+    "duration": "PT2H22M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Der Untergang",
+    "datePublished": "2005-04-08",
+    "actors": [
+      {
+        "name": "Bruno Ganz"
+      },
+      {
+        "name": "Alexandra Maria Lara"
+      },
+      {
+        "name": "Ulrich Matthes"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Oliver Hirschbiegel"
+      }
+    ],
+    "duration": "PT2H36M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Dead Poets Society",
+    "datePublished": "1989-06-09",
+    "actors": [
+      {
+        "name": "Robin Williams"
+      },
+      {
+        "name": "Robert Sean Leonard"
+      },
+      {
+        "name": "Ethan Hawke"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Peter Weir"
+      }
+    ],
+    "duration": "PT2H8M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Das Leben der Anderen",
+    "datePublished": "2007-03-30",
+    "actors": [
+      {
+        "name": "Ulrich Mühe"
+      },
+      {
+        "name": "Martina Gedeck"
+      },
+      {
+        "name": "Sebastian Koch"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Florian Henckel von Donnersmarck"
+      }
+    ],
+    "duration": "PT2H17M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Das Boot",
+    "datePublished": "1982-02-10",
+    "actors": [
+      {
+        "name": "Jürgen Prochnow"
+      },
+      {
+        "name": "Herbert Grönemeyer"
+      },
+      {
+        "name": "Klaus Wennemann"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Wolfgang Petersen"
+      }
+    ],
+    "duration": "PT2H29M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Dangal",
+    "datePublished": "2016-12-21",
+    "actors": [
+      {
+        "name": "Aamir Khan"
+      },
+      {
+        "name": "Sakshi Tanwar"
+      },
+      {
+        "name": "Fatima Sana Shaikh"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Nitesh Tiwari"
+      }
+    ],
+    "duration": "PT2H41M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Cool Hand Luke",
+    "datePublished": "1967-11-01",
+    "actors": [
+      {
+        "name": "Paul Newman"
+      },
+      {
+        "name": "George Kennedy"
+      },
+      {
+        "name": "Strother Martin"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stuart Rosenberg"
+      }
+    ],
+    "duration": "PT2H7M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Coco",
+    "datePublished": "2017-11-22",
+    "actors": [
+      {
+        "name": "Anthony Gonzalez"
+      },
+      {
+        "name": "Gael García Bernal"
+      },
+      {
+        "name": "Benjamin Bratt"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Lee Unkrich"
+      },
+      {
+        "name": "Adrian Molina"
+      }
+    ],
+    "duration": "PT1H45M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "City Lights",
+    "datePublished": "1931-03-07",
+    "actors": [
+      {
+        "name": "Charles Chaplin"
+      },
+      {
+        "name": "Virginia Cherrill"
+      },
+      {
+        "name": "Florence Lee"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Charles Chaplin"
+      }
+    ],
+    "duration": "PT1H27M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Citizen Kane",
+    "datePublished": "1941-09-05",
+    "actors": [
+      {
+        "name": "Orson Welles"
+      },
+      {
+        "name": "Joseph Cotten"
+      },
+      {
+        "name": "Dorothy Comingore"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Orson Welles"
+      }
+    ],
+    "duration": "PT1H59M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "Cidade de Deus",
+    "datePublished": "2004-02-13",
+    "actors": [
+      {
+        "name": "Alexandre Rodrigues"
+      },
+      {
+        "name": "Leandro Firmino"
+      },
+      {
+        "name": "Matheus Nachtergaele"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Fernando Meirelles"
+      },
+      {
+        "name": "Kátia Lund"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.6
+  },
+  {
+    "name": "Chinatown",
+    "datePublished": "1974-06-20",
+    "actors": [
+      {
+        "name": "Jack Nicholson"
+      },
+      {
+        "name": "Faye Dunaway"
+      },
+      {
+        "name": "John Huston"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Roman Polanski"
+      }
+    ],
+    "duration": "PT2H10M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Catch Me If You Can",
+    "datePublished": "2002-12-25",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Tom Hanks"
+      },
+      {
+        "name": "Christopher Walken"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steven Spielberg"
+      }
+    ],
+    "duration": "PT2H21M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Casino",
+    "datePublished": "1995-11-22",
+    "actors": [
+      {
+        "name": "Robert De Niro"
+      },
+      {
+        "name": "Sharon Stone"
+      },
+      {
+        "name": "Joe Pesci"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "duration": "PT2H58M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Casablanca",
+    "datePublished": "1943-01-23",
+    "actors": [
+      {
+        "name": "Humphrey Bogart"
+      },
+      {
+        "name": "Ingrid Bergman"
+      },
+      {
+        "name": "Paul Henreid"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Michael Curtiz"
+      }
+    ],
+    "duration": "PT1H42M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Capharnaüm",
+    "datePublished": "2018-09-20",
+    "actors": [
+      {
+        "name": "Zain Al Rafeea"
+      },
+      {
+        "name": "Yordanos Shiferaw"
+      },
+      {
+        "name": "Boluwatife Treasure Bankole"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Nadine Labaki"
+      }
+    ],
+    "duration": "PT2H6M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "C&apos;era una volta il West",
+    "datePublished": "1969-07-04",
+    "actors": [
+      {
+        "name": "Henry Fonda"
+      },
+      {
+        "name": "Charles Bronson"
+      },
+      {
+        "name": "Claudia Cardinale"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sergio Leone"
+      }
+    ],
+    "duration": "PT2H45M",
+    "genre": "Western",
+    "image": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Braveheart",
+    "datePublished": "1995-05-24",
+    "actors": [
+      {
+        "name": "Mel Gibson"
+      },
+      {
+        "name": "Sophie Marceau"
+      },
+      {
+        "name": "Patrick McGoohan"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Mel Gibson"
+      }
+    ],
+    "duration": "PT2H58M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Blade Runner",
+    "datePublished": "1982-06-25",
+    "actors": [
+      {
+        "name": "Harrison Ford"
+      },
+      {
+        "name": "Rutger Hauer"
+      },
+      {
+        "name": "Sean Young"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ridley Scott"
+      }
+    ],
+    "duration": "PT1H57M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Ben-Hur",
+    "datePublished": "1959-11-18",
+    "actors": [
+      {
+        "name": "Charlton Heston"
+      },
+      {
+        "name": "Jack Hawkins"
+      },
+      {
+        "name": "Stephen Boyd"
+      }
+    ],
+    "directors": [
+      {
+        "name": "William Wyler"
+      }
+    ],
+    "duration": "PT3H32M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Before Sunset",
+    "datePublished": "2004-07-30",
+    "actors": [
+      {
+        "name": "Ethan Hawke"
+      },
+      {
+        "name": "Julie Delpy"
+      },
+      {
+        "name": "Vernon Dobtcheff"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Richard Linklater"
+      }
+    ],
+    "duration": "PT1H20M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Before Sunrise",
+    "datePublished": "1995-01-27",
+    "actors": [
+      {
+        "name": "Ethan Hawke"
+      },
+      {
+        "name": "Julie Delpy"
+      },
+      {
+        "name": "Andrea Eckert"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Richard Linklater"
+      }
+    ],
+    "duration": "PT1H41M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Batman Begins",
+    "datePublished": "2005-06-15",
+    "actors": [
+      {
+        "name": "Christian Bale"
+      },
+      {
+        "name": "Michael Caine"
+      },
+      {
+        "name": "Ken Watanabe"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Christopher Nolan"
+      }
+    ],
+    "duration": "PT2H20M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Barry Lyndon",
+    "datePublished": "1975-12-18",
+    "actors": [
+      {
+        "name": "Ryan O&apos;Neal"
+      },
+      {
+        "name": "Marisa Berenson"
+      },
+      {
+        "name": "Patrick Magee"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kubrick"
+      }
+    ],
+    "duration": "PT3H5M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "Back to the Future",
+    "datePublished": "1985-07-03",
+    "actors": [
+      {
+        "name": "Michael J. Fox"
+      },
+      {
+        "name": "Christopher Lloyd"
+      },
+      {
+        "name": "Lea Thompson"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Robert Zemeckis"
+      }
+    ],
+    "duration": "PT1H56M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Bacheha-Ye aseman",
+    "datePublished": "1999-01-22",
+    "actors": [
+      {
+        "name": "Mohammad Amir Naji"
+      },
+      {
+        "name": "Amir Farrokh Hashemian"
+      },
+      {
+        "name": "Bahare Seddiqi"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Majid Majidi"
+      }
+    ],
+    "duration": "PT1H29M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Babam ve Oglum",
+    "datePublished": "2005-11-18",
+    "actors": [
+      {
+        "name": "Çetin Tekindor"
+      },
+      {
+        "name": "Fikret Kuskan"
+      },
+      {
+        "name": "Hümeyra"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Çagan Irmak"
+      }
+    ],
+    "duration": "PT1H52M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "datePublished": "2018-04-27",
+    "actors": [
+      {
+        "name": "Robert Downey Jr."
+      },
+      {
+        "name": "Chris Hemsworth"
+      },
+      {
+        "name": "Mark Ruffalo"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Anthony Russo"
+      },
+      {
+        "name": "Joe Russo"
+      }
+    ],
+    "duration": "PT2H29M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Avengers: Endgame",
+    "datePublished": "2019-04-26",
+    "actors": [
+      {
+        "name": "Robert Downey Jr."
+      },
+      {
+        "name": "Chris Evans"
+      },
+      {
+        "name": "Mark Ruffalo"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Anthony Russo"
+      },
+      {
+        "name": "Joe Russo"
+      }
+    ],
+    "duration": "PT3H1M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Apocalypse Now",
+    "datePublished": "1979-08-15",
+    "actors": [
+      {
+        "name": "Martin Sheen"
+      },
+      {
+        "name": "Marlon Brando"
+      },
+      {
+        "name": "Robert Duvall"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Francis Ford Coppola"
+      }
+    ],
+    "duration": "PT2H27M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Amores perros",
+    "datePublished": "2001-04-13",
+    "actors": [
+      {
+        "name": "Emilio Echevarría"
+      },
+      {
+        "name": "Gael García Bernal"
+      },
+      {
+        "name": "Goya Toledo"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Alejandro G. Iñárritu"
+      }
+    ],
+    "duration": "PT2H34M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "American History X",
+    "datePublished": "1998-11-20",
+    "actors": [
+      {
+        "name": "Edward Norton"
+      },
+      {
+        "name": "Edward Furlong"
+      },
+      {
+        "name": "Beverly D&apos;Angelo"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Tony Kaye"
+      }
+    ],
+    "duration": "PT1H59M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "American Beauty",
+    "datePublished": "1999-10-01",
+    "actors": [
+      {
+        "name": "Kevin Spacey"
+      },
+      {
+        "name": "Annette Bening"
+      },
+      {
+        "name": "Thora Birch"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sam Mendes"
+      }
+    ],
+    "duration": "PT2H2M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Amadeus",
+    "datePublished": "1984-09-19",
+    "actors": [
+      {
+        "name": "F. Murray Abraham"
+      },
+      {
+        "name": "Tom Hulce"
+      },
+      {
+        "name": "Elizabeth Berridge"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Milos Forman"
+      }
+    ],
+    "duration": "PT2H40M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "All About Eve",
+    "datePublished": "1950-10-27",
+    "actors": [
+      {
+        "name": "Bette Davis"
+      },
+      {
+        "name": "Anne Baxter"
+      },
+      {
+        "name": "George Sanders"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Joseph L. Mankiewicz"
+      }
+    ],
+    "duration": "PT2H18M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "Aliens",
+    "datePublished": "1986-07-18",
+    "actors": [
+      {
+        "name": "Sigourney Weaver"
+      },
+      {
+        "name": "Michael Biehn"
+      },
+      {
+        "name": "Carrie Henn"
+      }
+    ],
+    "directors": [
+      {
+        "name": "James Cameron"
+      }
+    ],
+    "duration": "PT2H17M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "Alien",
+    "datePublished": "1979-06-22",
+    "actors": [
+      {
+        "name": "Sigourney Weaver"
+      },
+      {
+        "name": "Tom Skerritt"
+      },
+      {
+        "name": "John Hurt"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ridley Scott"
+      }
+    ],
+    "duration": "PT1H57M",
+    "genre": "Horror",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+    "rating": 8.5
+  },
+  {
+    "name": "Aladdin",
+    "datePublished": "1992-11-25",
+    "actors": [
+      {
+        "name": "Scott Weinger"
+      },
+      {
+        "name": "Robin Williams"
+      },
+      {
+        "name": "Linda Larkin"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ron Clements"
+      },
+      {
+        "name": "John Musker"
+      }
+    ],
+    "duration": "PT1H30M",
+    "genre": "Animation",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg",
+    "rating": 8
+  },
+  {
+    "name": "Ah-ga-ssi",
+    "datePublished": "2016-06-01",
+    "actors": [
+      {
+        "name": "Kim Min-hee"
+      },
+      {
+        "name": "Ha Jung-woo"
+      },
+      {
+        "name": "Cho Jin-woong"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Park Chan-wook"
+      }
+    ],
+    "duration": "PT2H25M",
+    "genre": "Drama",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "A Clockwork Orange",
+    "datePublished": "1972-02-02",
+    "actors": [
+      {
+        "name": "Malcolm McDowell"
+      },
+      {
+        "name": "Patrick Magee"
+      },
+      {
+        "name": "Michael Bates"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kubrick"
+      }
+    ],
+    "duration": "PT2H16M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "A Beautiful Mind",
+    "datePublished": "2002-01-04",
+    "actors": [
+      {
+        "name": "Russell Crowe"
+      },
+      {
+        "name": "Ed Harris"
+      },
+      {
+        "name": "Jennifer Connelly"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Ron Howard"
+      }
+    ],
+    "duration": "PT2H15M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "3 Idiots",
+    "datePublished": "2009-12-25",
+    "actors": [
+      {
+        "name": "Aamir Khan"
+      },
+      {
+        "name": "Madhavan"
+      },
+      {
+        "name": "Mona Singh"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Rajkumar Hirani"
+      }
+    ],
+    "duration": "PT2H50M",
+    "genre": "Comedy",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "rating": 8.4
+  },
+  {
+    "name": "2001: A Space Odyssey",
+    "datePublished": "1970-06-24",
+    "actors": [
+      {
+        "name": "Keir Dullea"
+      },
+      {
+        "name": "Gary Lockwood"
+      },
+      {
+        "name": "William Sylvester"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Stanley Kubrick"
+      }
+    ],
+    "duration": "PT2H29M",
+    "genre": "Adventure",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "rating": 8.3
+  },
+  {
+    "name": "1917",
+    "datePublished": "2020-01-10",
+    "actors": [
+      {
+        "name": "Dean-Charles Chapman"
+      },
+      {
+        "name": "George MacKay"
+      },
+      {
+        "name": "Daniel Mays"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sam Mendes"
+      }
+    ],
+    "duration": "PT1H59M",
+    "genre": "Action",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg",
+    "rating": 8.2
+  },
+  {
+    "name": "12 Years a Slave",
+    "datePublished": "2013-11-08",
+    "actors": [
+      {
+        "name": "Chiwetel Ejiofor"
+      },
+      {
+        "name": "Michael Kenneth Williams"
+      },
+      {
+        "name": "Michael Fassbender"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Steve McQueen"
+      }
+    ],
+    "duration": "PT2H14M",
+    "genre": "Biography",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+    "rating": 8.1
+  },
+  {
+    "name": "12 Angry Men",
+    "datePublished": "1957-04-10",
+    "actors": [
+      {
+        "name": "Henry Fonda"
+      },
+      {
+        "name": "Lee J. Cobb"
+      },
+      {
+        "name": "Martin Balsam"
+      }
+    ],
+    "directors": [
+      {
+        "name": "Sidney Lumet"
+      }
+    ],
+    "duration": "PT1H36M",
+    "genre": "Crime",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+    "rating": 9
+  }
+]
