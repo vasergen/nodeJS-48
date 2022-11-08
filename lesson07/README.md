@@ -1,23 +1,12 @@
 # Lesson 7
 
-- Authorization
-- register
-- login
-- 
+- Authentication
+- bcrypt
+- JWT
+
 
 ## Resources
 - https://en.wikipedia.org/wiki/Bcrypt 
 - https://www.npmjs.com/package/http-errors
+- https://jwt.io/
 - render.com
-
-
-
-
-
-
-*__*
-- timestamps: true, versionKey: false
-- unique
-- http-errors
-- JWT
-- bcrypt
