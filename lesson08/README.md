@@ -4,4 +4,4 @@
 - JWT
 
 ## Resources
-
+- https://jwt.io/

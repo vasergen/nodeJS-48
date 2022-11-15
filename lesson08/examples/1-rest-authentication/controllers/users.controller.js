@@ -5,11 +5,11 @@ const { User: UserModel } = require("../models/user.model");
 async function getMovies(req, res, next) {
   const { user } = req;
 
-  const movies = await UserModel.findOne(user._id).populate("movies", { name: 1, datePublished: 1, _id: 1 });
+  const userWithMovies = await UserModel.findOne(user._id).populate("movies", { name: 1, datePublished: 1, _id: 1 });
 
   return res.status(200).json({
     data: {
-      movies,
+      movies: userWithMovies.movies,
     },
   });
 }
