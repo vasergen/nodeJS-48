@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Upload file</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.1.3/axios.min.js"></script>
+  </head>
+  <body>
+    <form id="form">
+      <input type="file" name="image" multiple />
+      <button type="submit">Upload file</button>
+    </form>
+
+    <script>
+      const form = document.getElementById("form");
+
+      form.addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        console.log("upload file", this.elements.image.files[0]);
+
+        const formData = new FormData();
+        formData.append("image", this.elements.image.files[0]);
+
+        // can do upload to the server
+        axios.post("http://localhost:3000/api/images", formData).catch((e) => {
+          console.error("Got error", e);
+        });
+      });
+    </script>
+  </body>
+</html>
