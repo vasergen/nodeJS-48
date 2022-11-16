@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`lottery should lost, expected 5 got 2 1`] = `"You lost, generated number: 2!"`;

@@ -1,0 +1,169 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 254,
+      "versionNonce": 671996163,
+      "isDeleted": false,
+      "id": "20JGLIo88qBjjZeISRpj4",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 456.2065734863281,
+      "y": 182.76910400390625,
+      "strokeColor": "#000000",
+      "backgroundColor": "#228be6",
+      "width": 199,
+      "height": 114,
+      "seed": 1237753940,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "pjObehlkrerrxpD0htEdj"
+        },
+        {
+          "id": "eAtXWuPKdjP7hG0zrQ-Re",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1668637787606,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 169,
+      "versionNonce": 186281133,
+      "isDeleted": false,
+      "id": "pjObehlkrerrxpD0htEdj",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 491.7065734863281,
+      "y": 187.76910400390625,
+      "strokeColor": "#000000",
+      "backgroundColor": "#228be6",
+      "width": 128,
+      "height": 103,
+      "seed": 1408781420,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElements": [],
+      "updated": 1668637787606,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Що таке \nтестування \nпрограмного \nзабезпечення?",
+      "baseline": 95,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "20JGLIo88qBjjZeISRpj4",
+      "originalText": "Що таке тестування програмного забезпечення?"
+    },
+    {
+      "type": "text",
+      "version": 169,
+      "versionNonce": 1668641867,
+      "isDeleted": false,
+      "id": "tBe4eXR0wKLHFEgyvwJWK",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 273.5677185058594,
+      "y": 393.907958984375,
+      "strokeColor": "#364fc7",
+      "backgroundColor": "#228be6",
+      "width": 539,
+      "height": 77,
+      "seed": 2119637100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElements": [
+        {
+          "id": "eAtXWuPKdjP7hG0zrQ-Re",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1668640157059,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "Тестування програмного забезпечення – це процес \nоцінювання та перевірки того, що програмний продукт \nабо програма виконує те, що він повинен робити. ",
+      "baseline": 69,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Тестування програмного забезпечення – це процес \nоцінювання та перевірки того, що програмний продукт \nабо програма виконує те, що він повинен робити. "
+    },
+    {
+      "type": "arrow",
+      "version": 403,
+      "versionNonce": 1828106987,
+      "isDeleted": false,
+      "id": "eAtXWuPKdjP7hG0zrQ-Re",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 550.2593952669827,
+      "y": 302.34938717930925,
+      "strokeColor": "#495057",
+      "backgroundColor": "#228be6",
+      "width": 11.277936782480992,
+      "height": 82.18737416110332,
+      "seed": 177669204,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "boundElements": [],
+      "updated": 1668640157061,
+      "link": null,
+      "locked": false,
+      "startBinding": {
+        "elementId": "20JGLIo88qBjjZeISRpj4",
+        "gap": 5.580283175403,
+        "focus": -0.005731604355515064
+      },
+      "endBinding": {
+        "elementId": "tBe4eXR0wKLHFEgyvwJWK",
+        "gap": 9.371197643962455,
+        "focus": -0.03877696760752952
+      },
+      "lastCommittedPoint": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -11.277936782480992,
+          82.18737416110332
+        ]
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
