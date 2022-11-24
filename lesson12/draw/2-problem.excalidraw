@@ -1,0 +1,235 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Mv88mr_jP4-TotapKT1pV",
+      "type": "text",
+      "x": 506.22393798828125,
+      "y": 225.13624900579453,
+      "width": 359,
+      "height": 36,
+      "angle": 0,
+      "strokeColor": "#364fc7",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 2070338079,
+      "version": 164,
+      "versionNonce": 293173151,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Jsg1xe4YiguTdm-P8Z90D",
+          "type": "arrow"
+        },
+        {
+          "id": "vf5OfbGUg1YXAOPQfz85j",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1669307864740,
+      "link": null,
+      "locked": false,
+      "text": "Тільки клієнт запитує дані",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 25,
+      "containerId": null,
+      "originalText": "Тільки клієнт запитує дані"
+    },
+    {
+      "type": "text",
+      "version": 378,
+      "versionNonce": 426130495,
+      "isDeleted": false,
+      "id": "zfArtiblXDJSqZrclJte6",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 584.3697814941406,
+      "y": 145.95395988225937,
+      "strokeColor": "#a61e4d",
+      "backgroundColor": "transparent",
+      "width": 131,
+      "height": 36,
+      "seed": 982574225,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElements": [
+        {
+          "id": "Jsg1xe4YiguTdm-P8Z90D",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1669307637162,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "Проблема",
+      "baseline": 25,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Проблема"
+    },
+    {
+      "id": "Jsg1xe4YiguTdm-P8Z90D",
+      "type": "arrow",
+      "x": 644.2447814941406,
+      "y": 190.65187400579453,
+      "width": 0.98956298828125,
+      "height": 28.658859252929688,
+      "angle": 0,
+      "strokeColor": "#a61e4d",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 1836115743,
+      "version": 20,
+      "versionNonce": 853864255,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1669307644042,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.98956298828125,
+          28.658859252929688
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "zfArtiblXDJSqZrclJte6",
+        "focus": 0.09901244185402162,
+        "gap": 8.697914123535156
+      },
+      "endBinding": {
+        "elementId": "Mv88mr_jP4-TotapKT1pV",
+        "focus": -0.22022310622613334,
+        "gap": 5.8255157470703125
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "type": "text",
+      "version": 464,
+      "versionNonce": 1942432703,
+      "isDeleted": false,
+      "id": "5hzkfFRfFJEFOjBgzbYvf",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 422.7135314941406,
+      "y": 335.4617800116539,
+      "strokeColor": "#364fc7",
+      "backgroundColor": "transparent",
+      "width": 572,
+      "height": 72,
+      "seed": 1428032721,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "boundElements": [
+        {
+          "id": "Jsg1xe4YiguTdm-P8Z90D",
+          "type": "arrow"
+        },
+        {
+          "id": "vf5OfbGUg1YXAOPQfz85j",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1669307864740,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 1,
+      "text": "Що робити якщо сервер хоче відправити \nдані на клієнт або повідомити про щось?",
+      "baseline": 61,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Що робити якщо сервер хоче відправити \nдані на клієнт або повідомити про щось?"
+    },
+    {
+      "id": "vf5OfbGUg1YXAOPQfz85j",
+      "type": "arrow",
+      "x": 650.0780944824219,
+      "y": 270.6518740057945,
+      "width": 0.98956298828125,
+      "height": 57.825531005859375,
+      "angle": 0,
+      "strokeColor": "#a61e4d",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 1133366399,
+      "version": 51,
+      "versionNonce": 1991415249,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1669307864740,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.98956298828125,
+          57.825531005859375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "Mv88mr_jP4-TotapKT1pV",
+        "focus": 0.20086263885224712,
+        "gap": 9.515625
+      },
+      "endBinding": {
+        "elementId": "5hzkfFRfFJEFOjBgzbYvf",
+        "focus": -0.1985593041825251,
+        "gap": 6.984375
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
